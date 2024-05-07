@@ -1,8 +1,8 @@
 # ANEXITY
 
-´Student in Media Design.´
+**Student in Media Design.**
 
  ✔ HTML/CSS \
  ✔ Confused about JS \
  ✔ Something With Snakes \
- 𐄂 Will make coffee \
+ 𐄂 Will make coffee
