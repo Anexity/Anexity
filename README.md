@@ -1,4 +1,4 @@
-<span style="text-align:center"> ANEXITY </span>
+<center> ANEXITY </center>
 
 **Student in Media Design.**
 
