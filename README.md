@@ -1,7 +1,8 @@
 # ANEXITY 
 
-**Student in Media Design.**
+**Media Artist**
 
  ✔ HTML/CSS \
  ✔ Confused about JS \
+ ✔ Adobe Suite
 
